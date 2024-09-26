@@ -1,0 +1,3 @@
+C:/Users/Tigran/Desktop/Projects/Projects/C++/TxtAnalyzer/build/CMakeFiles/TextAnalyzer.dir
+C:/Users/Tigran/Desktop/Projects/Projects/C++/TxtAnalyzer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tigran/Desktop/Projects/Projects/C++/TxtAnalyzer/build/CMakeFiles/ZERO_CHECK.dir
