@@ -323,6 +323,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\Tigran\Desktop\Projects\Projects\C++\TxtAnalyzer\src\analyzer.cpp" />
     <ClCompile Include="C:\Users\Tigran\Desktop\Projects\Projects\C++\TxtAnalyzer\src\document.cpp" />
     <ClCompile Include="C:\Users\Tigran\Desktop\Projects\Projects\C++\TxtAnalyzer\src\exeop.cpp" />
+    <ClCompile Include="C:\Users\Tigran\Desktop\Projects\Projects\C++\TxtAnalyzer\src\general.cpp" />
     <ClCompile Include="C:\Users\Tigran\Desktop\Projects\Projects\C++\TxtAnalyzer\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>

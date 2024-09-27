@@ -4,7 +4,8 @@ Analyzer::Analyzer(string text) : text(text)
 {
     operations = vector<ExecuteOperation*>
     {
-        new GetTextCountOperation(text), new GetWordLengthOperation(text)
+        new GetTextCountOperation(text), new GetWordLengthOperation(text),
+        new GetSuggestionLengthOperation(text)
     };
 }
 

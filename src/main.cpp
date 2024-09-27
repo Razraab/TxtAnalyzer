@@ -1,4 +1,5 @@
 #include <iostream>
+#include "general.hpp"
 #include "document.hpp"
 #include "analyzer.hpp"
 

@@ -32,4 +32,11 @@ public:
     string operate() const override;
 };
 
+class GetSuggestionLengthOperation : public ExecuteOperation
+{
+public:
+    GetSuggestionLengthOperation(string text) : ExecuteOperation(text, "gsl") { }
+    string operate() const;
+};
+
 #endif
